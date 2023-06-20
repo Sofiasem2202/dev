@@ -1,0 +1,3 @@
+git difftool adds --skip-to option
+--format enhancements for machine readable
+git pull
